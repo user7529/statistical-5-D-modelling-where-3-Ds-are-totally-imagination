@@ -6,3 +6,4 @@ https://www.w3schools.com/tags/tag_link.asp
 https://www.w3schools.com/css/css_important.asp
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-justify-content
 https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column
+https://stackoverflow.com/questions/61374458/evenly-spaced-images-using-css-grid
