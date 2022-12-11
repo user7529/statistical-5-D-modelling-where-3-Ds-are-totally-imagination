@@ -15,6 +15,7 @@ img {
 a,[item] {
   display: inline-block;
 }
+
 a,[item1] {
   display: inline-block;
 }
@@ -34,4 +35,18 @@ div,[container] {
   border-top: red;
   border-width: 10px;
   border: aqua;
+}
+
+div,[container1] {
+  /* border-top: red; */
+  /* border-width: 10px; */
+  border: none;
+}
+
+::placeholder {
+  color: deeppink;
+  /* font-size: 5rem; */
+  /* text-transform: uppercase; */
+  height: 200px;
+  width: 200px;
 }

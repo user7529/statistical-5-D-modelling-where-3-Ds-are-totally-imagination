@@ -9,3 +9,4 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column
 https://stackoverflow.com/questions/61374458/evenly-spaced-images-using-css-grid
 https://www.geeksforgeeks.org/html-subscript-superscript-tags/#:~:text=Subscript%3A%20The%20tag,written%20as%20H2O.
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
+https://www.samanthaming.com/tidbits/57-styling-css-placeholder/
